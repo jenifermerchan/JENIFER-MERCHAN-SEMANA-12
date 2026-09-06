@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "Coca cola",
+        "precio": 1.75,
+        "stock": 40
+    },
+    {
+        "codigo": "002",
+        "nombre": "Sprite",
+        "precio": 1.5,
+        "stock": 45
+    }
+]
